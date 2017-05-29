@@ -1,1 +1,42 @@
-XYZ
+{
+  "project_info": {
+    "project_number": "545813062677",
+    "firebase_url": "https://rapida-e3670.firebaseio.com",
+    "project_id": "rapida-e3670",
+    "storage_bucket": "rapida-e3670.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545813062677:android:5d2827f49859efb5",
+        "android_client_info": {
+          "package_name": "com.azurito.rapida"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545813062677-q5o6o83ucfesgahbq49q2qm8q4cr23ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhyLvtbH2wuCaUGGk7QidjtmWhTAeo4lg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
